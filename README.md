@@ -1,6 +1,23 @@
 # Final Project
-Use this `REAMDE.md` file to describe your final project (as detailed on Canvas).  
+## Intro to the Dataset at Markdown  
 https://info201b-au20.github.io/info-201-final-project-vz-hm-ll-sc-dz-/
+
+## Final Deliverable at Shiny
+Project Objectives:
+- Providing instructions to your machine with the terminal
+- Use markdown to describe document rendering
+- Manage your code with git and GitHub
+- Understand the basics of programming through the R language
+- Devise functions to perform repeated tasks
+- Interact with data frames to ask questions about datasets
+- Creating reproducible (web) documents with R Markdown
+- Establish a critical lens about data and data science
+- Learn to design and programmatically build visualizations
+- Engage in collaborative coding techniques using git and GitHub
+- Building web applications with Shiny (an R framework)
+- Custom CSS styles and/or custom HTML elements
+
+https://lauren-liao.shinyapps.io/Analysis_on_Freedom_Index/
 
 ## Domain of interest
 As we've discussed, data science can expose underlying patterns in any domain that uses or collects data (which is nearly any domain). Anything from the [forced relocation of homeless individuals](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study) to how people [gender representation](https://pudding.cool/2017/09/this-american-life/) in the media, data can expose interesting (and actionable) patterns. In this section, you'll identify a domain that you are interested in (e.g., music, education, dance, immigration -- any field of your interest) and answer the following questions in your `README.md` file:
